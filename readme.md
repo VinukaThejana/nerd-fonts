@@ -30,6 +30,8 @@ The following Sankey flow diagram shows the current glyph sets included:
 * `master` branch file paths are **not** considered stable. [Verify your repository URI references](#unstable-file-paths)
 * this repository is quite large (several GB) and growing, therefore cloning this repository is **not** recommended ([due to Repo size](#option-5-clone-the-repo)) unless you are going to be [contributing to development](#contributing)
 
+************USER FONTS ARE LOCATED IN THE "USER" DIRECTORY**************
+
 
 ## Table of Contents
 
